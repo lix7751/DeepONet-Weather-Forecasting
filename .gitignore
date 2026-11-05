@@ -1,0 +1,12 @@
+# DeepXDE checkpoints and output written during training
+model/
+*.ckpt*
+checkpoint
+loss.dat
+train.dat
+test.dat
+
+# Python / Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/

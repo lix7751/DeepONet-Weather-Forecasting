@@ -1,0 +1,11 @@
+# Python 3.11 (TensorFlow 2.15 supports Python 3.9 to 3.11)
+torch==2.5.1
+tensorflow==2.15.1
+deepxde==0.11.2
+scikit-optimize==0.10.2
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.2
+scipy==1.14.1
+matplotlib==3.9.2
+jupyterlab==4.6.5
